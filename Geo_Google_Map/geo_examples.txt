@@ -1,0 +1,2 @@
+Find Places Nearby in Google Maps using Google Places API–Android App
+http://javapapers.com/android/find-places-nearby-in-google-maps-using-google-places-apiandroid-app/
