@@ -1,0 +1,3 @@
+http://www.tutorialspoint.com/android/android_bluetooth.htm
+
+http://developer.android.com/intl/ko/guide/topics/connectivity/bluetooth.html
