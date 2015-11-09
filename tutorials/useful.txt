@@ -1,0 +1,2 @@
+Anti-Paterns
+http://www.odi.ch/prog/design/newbies.php
